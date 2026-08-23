@@ -1,0 +1,2528 @@
+{
+  "source": "https://inductiveautomation.com/downloads/ignition",
+  "scanned_at": "2026-08-23T03:58:57Z",
+  "stable_build_count": 150,
+  "macos_artifact_count": 280,
+  "artifacts": [
+    {
+      "branch": "8.0",
+      "buildid": 548,
+      "version": "8.0.0",
+      "released": "2019-04-08 09:54:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.0/20190407-1858/zip-installers/Ignition-8.0.0-osx-installer.dmg",
+      "sha256": "93e69ab6711710b8a9a0c91b247178080f50844f5303700e515bda1676a43c45"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 548,
+      "version": "8.0.0",
+      "released": "2019-04-08 09:54:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.0/20190407-1858/zip-installers/Ignition-osx-8.0.0.zip",
+      "sha256": "ae4f2d65f603fd6a5972d6256eff9ca78e007e5054b11738cb5ecafa05b2320e"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 559,
+      "version": "8.0.1",
+      "released": "2019-05-07 11:13:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.1/20190507-0808/Ignition-8.0.1-osx-installer.dmg",
+      "sha256": "b9cec31f3863364809f72679fd3bafcc26a5967673b08b244fd78d9edfeb25be"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 559,
+      "version": "8.0.1",
+      "released": "2019-05-07 11:13:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.1/20190507-0808/Ignition-osx-8.0.1.zip",
+      "sha256": "ceab0a46f06257703bacacad5e229ef66fa6fd83d9bfad0cb3b361ace8c6fdda"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 565,
+      "version": "8.0.2",
+      "released": "2019-06-05 16:15:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.2/20190605-1127/Ignition-8.0.2-osx-installer.dmg",
+      "sha256": "832d8e636dd100100e796ce6a0923628edfb72ebd745323ab385dbde4c2af891"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 565,
+      "version": "8.0.2",
+      "released": "2019-06-05 16:15:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.2/20190605-1127/Ignition-osx-8.0.2.zip",
+      "sha256": "e2e7f4aa36cfa9654abd41fe7850e6525d0fa53668a23941755cb77b0753cd7c"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 572,
+      "version": "8.0.3",
+      "released": "2019-08-08 11:40:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.3/20190807-1716/Ignition-8.0.3-osx-installer.dmg",
+      "sha256": "3981bd1ae24a854d7c898282018871679dab20245a4eb321fdf5e413cce231c0"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 572,
+      "version": "8.0.3",
+      "released": "2019-08-08 11:40:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.3/20190807-1716/Ignition-osx-8.0.3.zip",
+      "sha256": "4828002c985e27bc1adb116696fb4c981d03bab1297ee90a0be3b6073db998b6"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 574,
+      "version": "8.0.4",
+      "released": "2019-09-16 16:32:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.4/20190916-1250/Ignition-8.0.4-osx-installer.dmg",
+      "sha256": "0d23e1899a0b00d54a65590917a08ef0225e76ddad4be9a89ef93ff540acddc0"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 574,
+      "version": "8.0.4",
+      "released": "2019-09-16 16:32:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.4/20190916-1250/Ignition-osx-8.0.4.zip",
+      "sha256": "130cb3be269a1e519c7f4134355633a7d013fdd1ccb4faed0e815a98d3f6a4d5"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 577,
+      "version": "8.0.5",
+      "released": "2019-10-16 11:17:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.5/20191015-1642/Ignition-8.0.5-osx-installer.dmg",
+      "sha256": "a333824cffeb708e49a0a98e4789b4fd27f9982ea6fde6f7c0f3d6a364de29f3"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 577,
+      "version": "8.0.5",
+      "released": "2019-10-16 11:17:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.5/20191015-1642/Ignition-osx-8.0.5.zip",
+      "sha256": "908aed6891a1f4b8ef5229e78c53640a1a05beaef0fed63480c6f9b4813f5614"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 580,
+      "version": "8.0.6",
+      "released": "2019-11-13 16:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.6/20191112-1641/Ignition-8.0.6-osx-installer.dmg",
+      "sha256": "13c379c3e663b08441dd92f24dc8324a99c615210be3c81b77d979ac3b53d5cf"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 580,
+      "version": "8.0.6",
+      "released": "2019-11-13 16:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.6/20191112-1641/Ignition-osx-8.0.6.zip",
+      "sha256": "cc37ae421cb9f2c9e6e8c7443fd5680206e4983a410579579d363f7bf5f37c58"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 585,
+      "version": "8.0.7",
+      "released": "2019-12-20 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.7/20191220-1439/Ignition-8.0.7-osx-installer.dmg",
+      "sha256": "c2e646255f382b155f6ae9c1227941b3f54bf338719b0e2f127d384ec890b8d7"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 585,
+      "version": "8.0.7",
+      "released": "2019-12-20 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/build8.0.7/20191220-1439/Ignition-osx-8.0.7.zip",
+      "sha256": "7462378a0975501074a3d43326525517df9ea105aba3bdaa099beb556024b9d7"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 628,
+      "version": "8.0.8",
+      "released": "2020-02-12 09:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.8/20200211-1129/Ignition-8.0.8-osx-installer.dmg",
+      "sha256": "13084a6bfa80585a31ddc13ec76dd04dc6aa8926af8b2effed1d4da01df62308"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 628,
+      "version": "8.0.8",
+      "released": "2020-02-12 09:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.8/20200211-1129/Ignition-osx-8.0.8.zip",
+      "sha256": "ae37cedcb02f53e72e3532b84a813ca243fe2dbd180eead78c6b5d9e71d4cfe3"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 636,
+      "version": "8.0.9",
+      "released": "2020-02-18 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.9/20200218-1154/Ignition-8.0.9-osx-installer.dmg",
+      "sha256": "8907d3f6b88c451c208f8e512d4aa73d03aa70d6e7e3c43ad05a8fa5d642e09b"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 636,
+      "version": "8.0.9",
+      "released": "2020-02-18 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.9/20200218-1154/Ignition-osx-8.0.9.zip",
+      "sha256": "664255e5dbb08a45d15be7e15f4d0238dc66a4d2c706f0c92756f21cdbf10bc0"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 686,
+      "version": "8.0.10",
+      "released": "2020-03-19 15:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.10/20200319-1212/Ignition-8.0.10-osx-installer.dmg",
+      "sha256": "11c7af5028d6013c236d5c4b61092e2b10cbc88ca98e7050413cf296ac6e4a8f"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 686,
+      "version": "8.0.10",
+      "released": "2020-03-19 15:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.10/20200319-1212/Ignition-osx-8.0.10.zip",
+      "sha256": "7dec6d1938cf96c360d9848db084be76d58e5616c4099fd8eb1de0c25d9aba32"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 722,
+      "version": "8.0.11",
+      "released": "2020-04-14 15:42:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.11/20200414-1135/Ignition-8.0.11-osx-installer.dmg",
+      "sha256": "4d43da3bd53ad070264f91c19f7f76db7f777368d9322e194bdc61fbbd56e142"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 722,
+      "version": "8.0.11",
+      "released": "2020-04-14 15:42:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.11/20200414-1135/Ignition-osx-8.0.11.zip",
+      "sha256": "649392ea48bba9d50b209c4aedfe4cc828290d21ef5545b6d950d535ba3c0720"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 737,
+      "version": "8.0.12",
+      "released": "2020-04-23 09:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.12/20200421-1530/Ignition-8.0.12-osx-installer.dmg",
+      "sha256": "e58d0818d3de9783d9d7cf11b645241b0f05aa0a0327f2c7d1711b655b0d5d8d"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 737,
+      "version": "8.0.12",
+      "released": "2020-04-23 09:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.12/20200421-1530/Ignition-osx-8.0.12.zip",
+      "sha256": "1259fe7b08569447a8ca8b760d18294f2962114558bd8973a28e005312f5c38b"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 834,
+      "version": "8.0.13",
+      "released": "2020-06-08 16:50:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.13/20200608-1524/Ignition-8.0.13-osx-installer.dmg",
+      "sha256": "aaf271e465144584c82199152cfd23bf211c32886ab59a1a3168ed997c6cd0cb"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 834,
+      "version": "8.0.13",
+      "released": "2020-06-08 16:50:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.13/20200608-1524/Ignition-osx-8.0.13.zip",
+      "sha256": "2810520b27fbe414dc6967913c3750ea722956af9a1c5da830d49a14f0355a20"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 891,
+      "version": "8.0.14",
+      "released": "2020-06-23 09:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.14/20200622-2012/ignition-8.0.14-osx-installer.dmg",
+      "sha256": "e2e7ab015fdab9f2088461a0f27127f670e4b149373e486d0272f51b71c78889"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 891,
+      "version": "8.0.14",
+      "released": "2020-06-23 09:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.14/20200622-2012/Ignition-osx-8.0.14.zip",
+      "sha256": "296377b45e6b1d61c9f4b2d8c350a29240d1013543eb3600f7b600d840cb06d1"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 946,
+      "version": "8.0.15",
+      "released": "2020-07-22 15:45:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.15/20200722-1300/ignition-8.0.15-osx-installer.dmg",
+      "sha256": "482227ee052c03b9b74090e82141d25fb2ce0f796fc3063882e9a50636e35e60"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 946,
+      "version": "8.0.15",
+      "released": "2020-07-22 15:45:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.15/20200722-1300/Ignition-osx-8.0.15.zip",
+      "sha256": "40bf60cb8bbc0ea44ec0a602f97f40519e275030108d642648ea54893d56b1e2"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 974,
+      "version": "8.0.16",
+      "released": "2020-08-25 16:40:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.16/20200825-1345/ignition-8.0.16-osx-installer.dmg",
+      "sha256": "dab78588611958ea064a8457710e7c7b75274dca47340b81b49dd4bd727a58e2"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 974,
+      "version": "8.0.16",
+      "released": "2020-08-25 16:40:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.16/20200825-1345/Ignition-osx-8.0.16.zip",
+      "sha256": "bafcc922dd81c6acbd35292eb065b8f2da3cab956e1dd2fe9977a166dd83a307"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 1038,
+      "version": "8.0.17",
+      "released": "2020-11-12 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.0.17/20201112-1050/ignition-8.0.17-osx-installer.dmg",
+      "sha256": "d8d7a017a03967000097adbf4dc126b030046defc22b293572d8fb82d4692797"
+    },
+    {
+      "branch": "8.0",
+      "buildid": 1038,
+      "version": "8.0.17",
+      "released": "2020-11-12 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.0.17/20201112-1050/Ignition-osx-8.0.17.zip",
+      "sha256": "e873f8cc0a7f1f7d92379a212f71c15646712bede748c6444b47fe2a21e31447"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1029,
+      "version": "8.1.0",
+      "released": "2020-11-02 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.0/20201102-1125/ignition-8.1.0-osx-installer.dmg",
+      "sha256": "2cb0445aa73d21e6621defb2405260056aeef5bbde84e1eb59461e453a0771bf"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1029,
+      "version": "8.1.0",
+      "released": "2020-11-02 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.0/20201102-1125/Ignition-osx-8.1.0.zip",
+      "sha256": "6bbf4509ec83eb66c9460cddf0da5d214a2982cdcd410957c43677c19723f17c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1058,
+      "version": "8.1.1",
+      "released": "2020-12-08 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.1/20201208-0843/ignition-8.1.1-osx-installer.dmg",
+      "sha256": "550cf2ffb2b761eaf4a7a857aa2537cb30639b1a0d5ba399ba7122467de3edd8"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1058,
+      "version": "8.1.1",
+      "released": "2020-12-08 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.1/20201208-0843/Ignition-osx-8.1.1.zip",
+      "sha256": "a332a9ff9705bba3e2254976378be4835de7ed85a3ff448d70111585b61419ea"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1173,
+      "version": "8.1.2",
+      "released": "2021-02-03 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.2/20210203-1115/ignition-8.1.2-osx-installer.dmg",
+      "sha256": "ed14fff8b006f0f79dee6fed810436b7dd6d7c850a50800a6186c639b1a88cd2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1173,
+      "version": "8.1.2",
+      "released": "2021-02-03 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.2/20210203-1115/Ignition-osx-8.1.2.zip",
+      "sha256": "c4f5e2dfef55c0ce5766aa8efa6e17d7cd3cc391ddea3f9eb44ea3281be13164"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1235,
+      "version": "8.1.3",
+      "released": "2021-03-03 14:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.3/20210303-0915/ignition-8.1.3-osx-installer.dmg",
+      "sha256": "f28ea6b09d303790b15a5c24b2a3b650b1b7cfcd2be353f6220b49c19ba17078"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1235,
+      "version": "8.1.3",
+      "released": "2021-03-03 14:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.3/20210303-0915/Ignition-osx-8.1.3.zip",
+      "sha256": "e06fbdc70adbd14a72c1018392ed4fd676d06605c2e5cc7c7dda96739b6bc48d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1291,
+      "version": "8.1.4",
+      "released": "2021-04-01 15:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.4/20210401-0932/ignition-8.1.4-osx-installer.dmg",
+      "sha256": "61d9832c3dcce62363c9ff66cc2354ba037225e24a4ea92b6abc833da18638ff"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1291,
+      "version": "8.1.4",
+      "released": "2021-04-01 15:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.4/20210401-0932/Ignition-osx-8.1.4.zip",
+      "sha256": "f18ac19df681ea8ad9d8f6fe78468da3611d89100235e50a5c99c5bdb46f61dd"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1325,
+      "version": "8.1.5",
+      "released": "2021-04-28 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.5/20210428-1014/ignition-8.1.5-osx-installer.dmg",
+      "sha256": "455a2e9d08650c9f07c486b820a85d5d696bae599e667fbc0c9b727fb4159c7d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1325,
+      "version": "8.1.5",
+      "released": "2021-04-28 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.5/20210428-1014/Ignition-osx-8.1.5.zip",
+      "sha256": "6e98164845ac70915fb9359d1b97a4227847773199e9c775d66be5b17f9daa79"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1368,
+      "version": "8.1.7",
+      "released": "2021-06-03 18:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.7/20210603-1403/ignition-8.1.7-osx-installer.dmg",
+      "sha256": "6a67b608448cc0fac85d237789075d89b749585b620f871b417fbf1b55f6f540"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1368,
+      "version": "8.1.7",
+      "released": "2021-06-03 18:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.7/20210603-1403/Ignition-osx-8.1.7.zip",
+      "sha256": "7da601d03dcdf354ed874617ea7944cc0bb7af35fc2dd3865940529cced13fee"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1447,
+      "version": "8.1.9",
+      "released": "2021-08-07 21:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.9/20210806-1733/ignition-8.1.9-osx-installer.dmg",
+      "sha256": "d61a0228f19acf38ccbfc965609ad23536968b151a0e09d8822d3a19d28ab15a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1447,
+      "version": "8.1.9",
+      "released": "2021-08-07 21:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.9/20210806-1733/Ignition-osx-8.1.9.zip",
+      "sha256": "fba0313e309159a47d82cb4c1d78a4a929d0171d88e482e16cf328bb1bb303e7"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1489,
+      "version": "8.1.10",
+      "released": "2021-09-08 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.10/20210908-1153/ignition-8.1.10-osx-installer.dmg",
+      "sha256": "74ea9611294c5a90cf1ce08e82dc261bb37fb3ca5ed562244486dee2fe89b19f"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1489,
+      "version": "8.1.10",
+      "released": "2021-09-08 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.10/20210908-1153/Ignition-osx-8.1.10.zip",
+      "sha256": "0546dcc3a76c687b2ee2cef48ffff5f12ff8689ac43a7008135da4389c12e8de"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1539,
+      "version": "8.1.11",
+      "released": "2021-10-19 15:45:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.11/20211019-1212/ignition-8.1.11-osx-installer.dmg",
+      "sha256": "7a490521c149a4a72e995db757364ee94cbc245118824c99025eff1f910fb1c6"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1539,
+      "version": "8.1.11",
+      "released": "2021-10-19 15:45:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.11/20211019-1212/Ignition-osx-8.1.11.zip",
+      "sha256": "b7682c03dedc7b079a98ee6253498f2041e2811cc3da2d6267fd9b4a265f276c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1576,
+      "version": "8.1.12",
+      "released": "2021-11-18 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.12/20211118-1003/ignition-8.1.12-osx-installer.dmg",
+      "sha256": "4ccbfd0e2ec43a7a17791a2d5e50ce698eca9091f58ee182e858af04cc73aaf5"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1576,
+      "version": "8.1.12",
+      "released": "2021-11-18 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.12/20211118-1003/Ignition-osx-8.1.12.zip",
+      "sha256": "a5212e5cfd0d5f27ca0b0f9d601d9fedeff74f6fb49436b147ab7c7436d13cf1"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1616,
+      "version": "8.1.13",
+      "released": "2021-12-21 15:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.13/20211221-0852/ignition-8.1.13-osx-installer.dmg",
+      "sha256": "499c92893003e009271418176941c799305a5b67fcc210cbacabb42c7ec91d76"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1616,
+      "version": "8.1.13",
+      "released": "2021-12-21 15:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.13/20211221-0852/Ignition-osx-8.1.13.zip",
+      "sha256": "1edf5261daa9a9798737b5a33969f6366c9af5bf2efbcfa8fc71676694abca76"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1655,
+      "version": "8.1.14",
+      "released": "2022-01-27 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.14/20220127-1144/ignition-8.1.14-osx-installer.dmg",
+      "sha256": "b97bffac4cc0e02fbe693ec0c9ce4d66e82c6f2389ba2c6923ece313bc30b453"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1655,
+      "version": "8.1.14",
+      "released": "2022-01-27 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.14/20220127-1144/Ignition-osx-8.1.14.zip",
+      "sha256": "3c934d571d2295e41268f4432c2ca9eb437d62d113ae7f2fa5dbcd11c08f611e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1699,
+      "version": "8.1.15",
+      "released": "2022-03-01 17:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.15/20220301-1426/ignition-8.1.15-macOs-64-installer.dmg",
+      "sha256": "81a00e44d55a71d0680d1be6fd6bca08312fc18728d19695c80c240f3c16dc67"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1699,
+      "version": "8.1.15",
+      "released": "2022-03-01 17:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.15/20220301-1426/Ignition-macOs-x86-64-8.1.15.zip",
+      "sha256": "24331d78e843421807040e10455f10efd6bdd4f79dee1d603510d370773fd8a0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1741,
+      "version": "8.1.16",
+      "released": "2022-04-05 15:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.16/20220405-1206/ignition-8.1.16-macOs-64-installer.dmg",
+      "sha256": "d0c41a726bb0e86130bffc6a1e70401c380658864a1b07c53df06e439c17420c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1741,
+      "version": "8.1.16",
+      "released": "2022-04-05 15:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.16/20220405-1206/Ignition-macOs-x86-64-8.1.16.zip",
+      "sha256": "2c13259e630dcb09b428f56ca8ef93221f31b1dd39d2e94b843ce1ba90b0e15d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1784,
+      "version": "8.1.17",
+      "released": "2022-05-12 15:15:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.17/20220512-1059/ignition-8.1.17-macOs-64-installer.dmg",
+      "sha256": "512fca877103edda691d12f57b17c90da7f823e3ac61ac4a3f2f337617eae8c9"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1784,
+      "version": "8.1.17",
+      "released": "2022-05-12 15:15:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.17/20220512-1059/Ignition-macOs-x86-64-8.1.17.zip",
+      "sha256": "c5767ad990665945e64294d658d9fb474ed0a9fb4ca40dcef3c0ad714641eec7"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1826,
+      "version": "8.1.18",
+      "released": "2022-06-16 23:32:23",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.18/20220615-1907/ignition-8.1.18-macOs-64-installer.dmg",
+      "sha256": "6575c1a51ce0f1f0ff8b53f59fd610e9741814802fec0fe7f52fbc59f202a2c0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1826,
+      "version": "8.1.18",
+      "released": "2022-06-16 23:32:23",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.18/20220615-1907/Ignition-macOs-x86-64-8.1.18.zip",
+      "sha256": "cc7edf21eaf75cddb19d3f2a2113ca40256e54b79c18854302fa1d79676e3bcd"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1870,
+      "version": "8.1.19",
+      "released": "2022-07-28 13:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.19/20220727-1130/ignition-8.1.19-macOs-64-installer.dmg",
+      "sha256": "6abfdc08486f0b13117170207df247a6347377be7434cbf987e783cf56ce8152"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1870,
+      "version": "8.1.19",
+      "released": "2022-07-28 13:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.19/20220727-1130/Ignition-macOs-x86-64-8.1.19.zip",
+      "sha256": "04daabb887b4288d98be9c4f5ddc81a86692494c369079d0d9106ecc1937d681"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1903,
+      "version": "8.1.20",
+      "released": "2022-08-23 16:52:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.20/20220823-1339/ignition-8.1.20-macOs-64-installer.dmg",
+      "sha256": "bae04ac45e0572f456d468b1161d81d0b42ffa552108578f57d9a5cc70999ac4"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1903,
+      "version": "8.1.20",
+      "released": "2022-08-23 16:52:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.20/20220823-1339/Ignition-macOs-x86-64-8.1.20.zip",
+      "sha256": "366dbf4fd3e0959743338f9b36e5a3a209182d3baa5d1b483df5e6ab7da3ee2e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1947,
+      "version": "8.1.21",
+      "released": "2022-09-29 14:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.21/20220929-0906/designerlauncher.dmg",
+      "sha256": "85e0754cf2de38ff35313fdaf4987a53e5d7998577aeb740103e588b2b34b8ee"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1947,
+      "version": "8.1.21",
+      "released": "2022-09-29 14:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.21/20220929-0906/ignition-8.1.21-macOs-64-installer.dmg",
+      "sha256": "58c1166034d91da2e6653a7e093548d887a5363a9d9bb75402b1a045f59d9616"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1947,
+      "version": "8.1.21",
+      "released": "2022-09-29 14:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.21/20220929-0906/Ignition-macOs-x86-64-8.1.21.zip",
+      "sha256": "909d0e3458bdc4da730cae570b9cec64add9a7e5f6491cdffc82d99871c776fe"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1947,
+      "version": "8.1.21",
+      "released": "2022-09-29 14:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.21/20220929-0906/perspectiveworkstation.dmg",
+      "sha256": "bb40b3bd637f51e1716d8466c211d9aec1c98d46a73abe49e9ed3eaf822eb112"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1947,
+      "version": "8.1.21",
+      "released": "2022-09-29 14:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.21/20220929-0906/visionclientlauncher.dmg",
+      "sha256": "3e1c727f4bfb1b6560c6bd83831cdc973e3f9141222011bd7415373eee2cd263"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1989,
+      "version": "8.1.22",
+      "released": "2022-11-01 15:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.22/20221101-1006/designerlauncher.dmg",
+      "sha256": "4b909e076a9316559ea4227bd81f0ff80a49ab002afbb08cfaf3808abed6a148"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1989,
+      "version": "8.1.22",
+      "released": "2022-11-01 15:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.22/20221101-1006/ignition-8.1.22-macOs-64-installer.dmg",
+      "sha256": "d8edc9f5cfc4016adca3c30657260e13b6d39136844e00c766b45e662f9a110c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1989,
+      "version": "8.1.22",
+      "released": "2022-11-01 15:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.22/20221101-1006/Ignition-macOs-x86-64-8.1.22.zip",
+      "sha256": "352cae52f8c0b3298cb59d2efef8134cd0d1ab3d2bf613d9644c30dae54d0c80"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1989,
+      "version": "8.1.22",
+      "released": "2022-11-01 15:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.22/20221101-1006/perspectiveworkstation.dmg",
+      "sha256": "6360693d22d6bbc70269d63aac95e7619065c6e180730db416c6d54333b454da"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 1989,
+      "version": "8.1.22",
+      "released": "2022-11-01 15:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.22/20221101-1006/visionclientlauncher.dmg",
+      "sha256": "69b4d2104f796b9bceeb124e58ddbc35f83479b5eaeca6d489b9825edb12c930"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2040,
+      "version": "8.1.23",
+      "released": "2022-12-13 13:30:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.23/20221213-0907/designerlauncher.dmg",
+      "sha256": "9b9ce77461a7e970ba8e351b2f2944566a11c2096576bae4a9be477eb6c88d5c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2040,
+      "version": "8.1.23",
+      "released": "2022-12-13 13:30:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.23/20221213-0907/ignition-8.1.23-macOs-64-installer.dmg",
+      "sha256": "238fa02dae4f0189c8f243cc8c2a5b30df30a8f8aca1eecbd9140a2708786e09"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2040,
+      "version": "8.1.23",
+      "released": "2022-12-13 13:30:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.23/20221213-0907/Ignition-macOs-x86-64-8.1.23.zip",
+      "sha256": "4ecbe3d31ae453825061e6d44e53c4a7958e54691ba04852a6a6cf977bcccbb3"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2040,
+      "version": "8.1.23",
+      "released": "2022-12-13 13:30:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.23/20221213-0907/perspectiveworkstation.dmg",
+      "sha256": "bce0d6d922783023fe07051374d565285c514e003bb8958391b4bb601c678d14"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2040,
+      "version": "8.1.23",
+      "released": "2022-12-13 13:30:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.23/20221213-0907/visionclientlauncher.dmg",
+      "sha256": "5890f6e019ec9a76213a7a16b02b142aeef4103a118e0feae907d861a980b5e0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2076,
+      "version": "8.1.24",
+      "released": "2023-01-12 22:23:59",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.24/20230112-0850/designerlauncher.dmg",
+      "sha256": "a4cd56f1661cc3d25f8ddbec1999daf4fab4f43183921bb885b4b42f7f0b6dad"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2076,
+      "version": "8.1.24",
+      "released": "2023-01-12 22:23:59",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.24/20230112-0850/ignition-8.1.24-macOs-64-installer.dmg",
+      "sha256": "bba0c57c80f2e46fede4d86e377904d24bcb5b392cd7d75fd03e92aa6e481c69"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2076,
+      "version": "8.1.24",
+      "released": "2023-01-12 22:23:59",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.24/20230112-0850/Ignition-macOs-x86-64-8.1.24.zip",
+      "sha256": "fc2abb7f600ba7238c84fed4fba875da9d83c035845ff22de920514c52c43e0c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2076,
+      "version": "8.1.24",
+      "released": "2023-01-12 22:23:59",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.24/20230112-0850/perspectiveworkstation.dmg",
+      "sha256": "41171171495c0e91bab7616c1c399f6db833729c9a6e2329df22c2714513bf2a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2076,
+      "version": "8.1.24",
+      "released": "2023-01-12 22:23:59",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.24/20230112-0850/visionclientlauncher.dmg",
+      "sha256": "a6ca380b7a7a0f21038b5a1f9fef8dc9ff33a8e855d1d8cf5f1f38aa25a36ae0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2120,
+      "version": "8.1.25",
+      "released": "2023-02-14 22:58:40",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.25/20230214-0923/designerlauncher.dmg",
+      "sha256": "cca9d7b8e6286dec58654733b1dc4550d747351221cbda4989c381becd9a6328"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2120,
+      "version": "8.1.25",
+      "released": "2023-02-14 22:58:40",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.25/20230214-0923/ignition-8.1.25-macOs-64-installer.dmg",
+      "sha256": "65bd2e6ad524b82c9150a91e1a924c24db14fea5cd57038bd7641442c0da3d2a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2120,
+      "version": "8.1.25",
+      "released": "2023-02-14 22:58:40",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.25/20230214-0923/Ignition-macOs-x86-64-8.1.25.zip",
+      "sha256": "48b4d4010e95a7df6cb24fa8078d113c89aae529d91e20a8ef5482c51283bbb5"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2120,
+      "version": "8.1.25",
+      "released": "2023-02-14 22:58:40",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.25/20230214-0923/perspectiveworkstation.dmg",
+      "sha256": "c561626aeac1bf512e34a7cb91102eeceef607e0c47666778ab098ad5e046ff6"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2120,
+      "version": "8.1.25",
+      "released": "2023-02-14 22:58:40",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.25/20230214-0923/visionclientlauncher.dmg",
+      "sha256": "d7ff813ba35ead21304e2da0c2e376dc1befc502e16bcdee8b3501da2b7bfd2c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2167,
+      "version": "8.1.26",
+      "released": "2023-03-23 22:10:53",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.26/20230323-0920/designerlauncher.dmg",
+      "sha256": "a497156e6c43b4a57377f4474be74dfe2af76bae54d3dc990a9505be14a8014e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2167,
+      "version": "8.1.26",
+      "released": "2023-03-23 22:10:53",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.26/20230323-0920/ignition-8.1.26-macOs-64-installer.dmg",
+      "sha256": "747d1441500319817f9f5bc33fa23c06970b5b081215942521b7331a4e25946d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2167,
+      "version": "8.1.26",
+      "released": "2023-03-23 22:10:53",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.26/20230323-0920/Ignition-macOs-x86-64-8.1.26.zip",
+      "sha256": "2125636f510c8b1656bec2e70368567d97f2af339411e6e1bf46a58f1ca65e95"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2167,
+      "version": "8.1.26",
+      "released": "2023-03-23 22:10:53",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.26/20230323-0920/perspectiveworkstation.dmg",
+      "sha256": "1e035a5fa1718f4915d06a11230848893794be6f23abe44d9046b13d59d3c263"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2167,
+      "version": "8.1.26",
+      "released": "2023-03-23 22:10:53",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.26/20230323-0920/visionclientlauncher.dmg",
+      "sha256": "5f9285da0d9c4c3ebbca0a6265abaa6f453a11ea6432366d5f91369dfbed386e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2211,
+      "version": "8.1.27",
+      "released": "2023-04-25 15:00:09",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.27/20230425-0954/designerlauncher.dmg",
+      "sha256": "51a91f0df8dac7a2b58fdcd69f3c3f66bcfd127f50bfb0213d00d174ffef7189"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2211,
+      "version": "8.1.27",
+      "released": "2023-04-25 15:00:09",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.27/20230425-0954/ignition-8.1.27-macOs-64-installer.dmg",
+      "sha256": "1114b603d566d1f03e980fa6b86e81979667460882bf32737349c468cdd24c33"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2211,
+      "version": "8.1.27",
+      "released": "2023-04-25 15:00:09",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.27/20230425-0954/Ignition-macOs-x86-64-8.1.27.zip",
+      "sha256": "0877cf60ad450d3e8cf378774633a50d073b2565d20109d3a74696b9b59cf02a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2211,
+      "version": "8.1.27",
+      "released": "2023-04-25 15:00:09",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.27/20230425-0954/perspectiveworkstation.dmg",
+      "sha256": "b82e93f0010bb100d0b58353c3540c8347fec5bc744b60df2b37d0de66a7b885"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2211,
+      "version": "8.1.27",
+      "released": "2023-04-25 15:00:09",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.27/20230425-0954/visionclientlauncher.dmg",
+      "sha256": "24d48f3685fa84e9bdf6e7e9ed1fdb8e3496afa5d0c5d776979dfc2d3fc8a9b1"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2260,
+      "version": "8.1.28",
+      "released": "2023-06-01 15:19:23",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.28/20230601-1114/designerlauncher.dmg",
+      "sha256": "acd2677919d47efbad24357fa9bd8657ca08996dd01de76cd2ee5293da5578e4"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2260,
+      "version": "8.1.28",
+      "released": "2023-06-01 15:19:23",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.28/20230601-1114/ignition-8.1.28-macos-64-installer.dmg",
+      "sha256": "804228b24e7b983248a4ff00c0ecd331aa66217ab07cb5d9b2e33ed84794248d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2260,
+      "version": "8.1.28",
+      "released": "2023-06-01 15:19:23",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.28/20230601-1114/Ignition-macOs-x86-64-8.1.28.zip",
+      "sha256": "29668bd012cf6d621d2cad863dbc8145b789007efb37f0d6af0859c6fd168fef"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2260,
+      "version": "8.1.28",
+      "released": "2023-06-01 15:19:23",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.28/20230601-1114/perspectiveworkstation.dmg",
+      "sha256": "1d018003b6d21d0301cebfa5b27a3f0e1fac73f664b0431b5797aa80ea1d3891"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2260,
+      "version": "8.1.28",
+      "released": "2023-06-01 15:19:23",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.28/20230601-1114/visionclientlauncher.dmg",
+      "sha256": "92e50177c4b08c0ecbdddd98ec964f44d6e630cd22e239f04b7b57f2664e1c63"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2303,
+      "version": "8.1.30",
+      "released": "2023-07-14 14:05:35",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.30/20230714-0908/designerlauncher.dmg",
+      "sha256": "c06667d4467c8a4adc45b27626ff8a242dcf2e88623e391b5d82192ef5cda846"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2303,
+      "version": "8.1.30",
+      "released": "2023-07-14 14:05:35",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.30/20230714-0908/ignition-8.1.30-macos-64-installer.dmg",
+      "sha256": "f5b148ae5aa4679d93f461ed8a43e6af243140721dae018892121783128931b0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2303,
+      "version": "8.1.30",
+      "released": "2023-07-14 14:05:35",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.30/20230714-0908/Ignition-macOs-x86-64-8.1.30.zip",
+      "sha256": "72cea3ddedd34a62b6172fd45d3ecd819b30478194d94a00f112fece08cc7918"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2303,
+      "version": "8.1.30",
+      "released": "2023-07-14 14:05:35",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.30/20230714-0908/perspectiveworkstation.dmg",
+      "sha256": "b561c287ae0809d9698f95384ee4a55608100c90248d4db3fa2281556aa27abf"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2303,
+      "version": "8.1.30",
+      "released": "2023-07-14 14:05:35",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.30/20230714-0908/visionclientlauncher.dmg",
+      "sha256": "73cd6e2d72e3e47d08ba9e436eb7b9d23baae8b60f0cb7ccd0fbd388d176bbb2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2327,
+      "version": "8.1.31",
+      "released": "2023-08-10 15:11:59",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.31/20230810-0829/designerlauncher.dmg",
+      "sha256": "59dde15b6f3426657a44d2b9b571a803be2db430c49a138d235be4d94a8fbfec"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2327,
+      "version": "8.1.31",
+      "released": "2023-08-10 15:11:59",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.31/20230810-0829/ignition-8.1.31-macos-64-installer.dmg",
+      "sha256": "2e58380a4988451a347e3d4d188557b1f8b5883c155316c72a6994415bbd6488"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2327,
+      "version": "8.1.31",
+      "released": "2023-08-10 15:11:59",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.31/20230810-0829/Ignition-macOs-x86-64-8.1.31.zip",
+      "sha256": "7a4d9415753c1e8378a766b107e0749220fa9e6fcf78cd739198d39eabeb68ff"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2327,
+      "version": "8.1.31",
+      "released": "2023-08-10 15:11:59",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.31/20230810-0829/perspectiveworkstation.dmg",
+      "sha256": "b9d75cab72dd3907eb65b9f79019826bff45c656172be43a8a42d0be36f6841f"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2327,
+      "version": "8.1.31",
+      "released": "2023-08-10 15:11:59",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.31/20230810-0829/visionclientlauncher.dmg",
+      "sha256": "23e0a7f1679194256bba57c9920707bdc3ad2b148a2a6d266285c7384701b5b9"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2353,
+      "version": "8.1.32",
+      "released": "2023-09-12 15:50:24",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.32/20230912-1210/designerlauncher.dmg",
+      "sha256": "bfad896af3d986a825465188b10618026ab195e026ec33ae4cacb984c78be97e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2353,
+      "version": "8.1.32",
+      "released": "2023-09-12 15:50:24",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.32/20230912-1210/ignition-8.1.32-macos-64-installer.dmg",
+      "sha256": "88f0e602c375abcbdfd05283008a09e2f2281c3865fa5a53e3aeb6158fd5f2ff"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2353,
+      "version": "8.1.32",
+      "released": "2023-09-12 15:50:24",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.32/20230912-1210/Ignition-macOs-x86-64-8.1.32.zip",
+      "sha256": "04d5edb0ef2fa24cce93473f20efac3689a7802a9f3ac208ee37fcd802dd0830"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2353,
+      "version": "8.1.32",
+      "released": "2023-09-12 15:50:24",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.32/20230912-1210/perspectiveworkstation.dmg",
+      "sha256": "bfeff6a1838a42ebadbe42434017d828886846e02fe11171abe06ef63e613782"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2353,
+      "version": "8.1.32",
+      "released": "2023-09-12 15:50:24",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.32/20230912-1210/visionclientlauncher.dmg",
+      "sha256": "fec6750de5ecf080e23062fe33e286b0bb69a9310da51f529e5c49cb92a7f948"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2381,
+      "version": "8.1.33",
+      "released": "2023-10-19 15:52:57",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.33/20231019-1423/designerlauncher.dmg",
+      "sha256": "c6c7005d45a573fd058de2f9c4eef1445a43c91f3764360fcebe3138c68e33cb"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2381,
+      "version": "8.1.33",
+      "released": "2023-10-19 15:52:57",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.33/20231019-1423/ignition-8.1.33-macos-64-installer.dmg",
+      "sha256": "a5fe003ffecfd0b7fe82f1e2506587d778280b274a095308bb0bafed6fc526be"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2381,
+      "version": "8.1.33",
+      "released": "2023-10-19 15:52:57",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.33/20231019-1423/Ignition-macOs-x86-64-8.1.33.zip",
+      "sha256": "01891c2496e17c149d636c7829772f2ea2929c2f603468618b03df89b6b9a95e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2381,
+      "version": "8.1.33",
+      "released": "2023-10-19 15:52:57",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.33/20231019-1423/perspectiveworkstation.dmg",
+      "sha256": "e10a1fbe35e474bd6df787f31f3349c77a3136a8076fb62623630c8021aad22d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2381,
+      "version": "8.1.33",
+      "released": "2023-10-19 15:52:57",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.33/20231019-1423/visionclientlauncher.dmg",
+      "sha256": "36edf63abdb12d08a7f869525b203c86ac3bbea3fa30114c0ee59123b2c5146b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2422,
+      "version": "8.1.35",
+      "released": "2023-12-06 14:13:34",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.35/20231205-1850/designerlauncher.dmg",
+      "sha256": "6250e2c8d88afd0afb812d8ee378d63840b47f6cf97e563ed5cb5663492367eb"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2422,
+      "version": "8.1.35",
+      "released": "2023-12-06 14:13:34",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.35/20231205-1850/ignition-8.1.35-macos-64-installer.dmg",
+      "sha256": "7d7af1efe03c8c4f4a07b444326b99843aa8aa48a2870f03391619d181109929"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2422,
+      "version": "8.1.35",
+      "released": "2023-12-06 14:13:34",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.35/20231205-1850/Ignition-macOs-x86-64-8.1.35.zip",
+      "sha256": "2149ff4d58125c990422d42e94a8e261262b292376b062ebc4779b39f2828e39"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2422,
+      "version": "8.1.35",
+      "released": "2023-12-06 14:13:34",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.35/20231205-1850/perspectiveworkstation.dmg",
+      "sha256": "1fda90d937b62cd606e13f7aa2b073d8774059bff98a512c689a946dc3f48e0e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2422,
+      "version": "8.1.35",
+      "released": "2023-12-06 14:13:34",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.35/20231205-1850/visionclientlauncher.dmg",
+      "sha256": "0ec9e37ee5309b7e1356fd3a56f2c3eda9b18546e8046ef83cc62de285ea4701"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2445,
+      "version": "8.1.36",
+      "released": "2024-01-02 15:51:51",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.36/20240102-1152/designerlauncher.dmg",
+      "sha256": "0f2ecf3daa81ce721e5d2ae738f67d7997cac7edb4ddaf6ab4988c4b96bec9bd"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2445,
+      "version": "8.1.36",
+      "released": "2024-01-02 15:51:51",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.36/20240102-1152/ignition-8.1.36-macos-64-installer.dmg",
+      "sha256": "e15a7c166b4556d32c3af70bb911b7f9e3e91a74939f75c4f26cb2bbe10346b4"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2445,
+      "version": "8.1.36",
+      "released": "2024-01-02 15:51:51",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.36/20240102-1152/Ignition-macOs-x86-64-8.1.36.zip",
+      "sha256": "f5305672b514e4bad96cbb5629685b4f4b0c30d4a9690654c0b642e2ec555f7c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2445,
+      "version": "8.1.36",
+      "released": "2024-01-02 15:51:51",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.36/20240102-1152/perspectiveworkstation.dmg",
+      "sha256": "5cbb4d722433166c5b42fd8804039ffa970e19962a3da7678b4a683813204331"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2445,
+      "version": "8.1.36",
+      "released": "2024-01-02 15:51:51",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.36/20240102-1152/visionclientlauncher.dmg",
+      "sha256": "0a7f8c1ed39f015366eec2352d971f034411e15c13327a0657cda36aabc732cc"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2467,
+      "version": "8.1.37",
+      "released": "2024-01-30 16:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.37/20240130-1251/designerlauncher.dmg",
+      "sha256": "3612931c60268d65612be0127ef383296489f61df944b05f260984b431bc5827"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2467,
+      "version": "8.1.37",
+      "released": "2024-01-30 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.37/20240130-1251/ignition-8.1.37-macos-64-installer.dmg",
+      "sha256": "23091682f8a92ccf1fab5a633d57e6ccf660248e2c024e39a56242e2f0e6f631"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2467,
+      "version": "8.1.37",
+      "released": "2024-01-30 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.37/20240130-1251/Ignition-macOs-x86-64-8.1.37.zip",
+      "sha256": "ca03e33e636dcefbc65b05982b909198870e1c6ba71ab171f29cd7406aa075bf"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2467,
+      "version": "8.1.37",
+      "released": "2024-01-30 16:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.37/20240130-1251/perspectiveworkstation.dmg",
+      "sha256": "f15183ec9e3894733a9dd236ed24b2b43294308150e3c9c0fdc88836d4aa3c2c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2467,
+      "version": "8.1.37",
+      "released": "2024-01-30 16:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.37/20240130-1251/visionclientlauncher.dmg",
+      "sha256": "2108be5e4f554db523f87099d0489858120b8cee6b0f7b3801a9f515a69ede1f"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2495,
+      "version": "8.1.38",
+      "released": "2024-03-05 16:38:23",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.38/20240305-1347/designerlauncher.dmg",
+      "sha256": "c87f8f6237135f711dcd9323cad699a729c91f4c8784058179d109ad927eb026"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2495,
+      "version": "8.1.38",
+      "released": "2024-03-05 16:38:23",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.38/20240305-1347/ignition-8.1.38-macos-64-installer.dmg",
+      "sha256": "8ae5f75456e0a16a65ab44ca22c6ffa385b3d2372a378d0ef1a924bdcd251507"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2495,
+      "version": "8.1.38",
+      "released": "2024-03-05 16:38:23",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.38/20240305-1347/Ignition-macOs-x86-64-8.1.38.zip",
+      "sha256": "b61aa563c728b7da5dbcb8c05d9263102e36365e6198df445d2586f747af3311"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2495,
+      "version": "8.1.38",
+      "released": "2024-03-05 16:38:23",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.38/20240305-1347/perspectiveworkstation.dmg",
+      "sha256": "e22933c5b153749662238fe19a122502214fe339b01510690f3e33d3b6d69c88"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2495,
+      "version": "8.1.38",
+      "released": "2024-03-05 16:38:23",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.38/20240305-1347/visionclientlauncher.dmg",
+      "sha256": "c64c76e83b221b7d177482d46278b52cc48cb4f97d871aa49e8320642142b0f1"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2523,
+      "version": "8.1.39",
+      "released": "2024-04-09 16:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.39/20240409-1059/designerlauncher.dmg",
+      "sha256": "eb9a3b247b91745f58822c71d6471ee2f5549854e639b9146f359497dbc5c96a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2523,
+      "version": "8.1.39",
+      "released": "2024-04-09 16:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.39/20240409-1059/ignition-8.1.39-macos-64-installer.dmg",
+      "sha256": "bd2fc8b4d47357fa8fb966c6271629ce007b44baa7070f758fabba28940a4788"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2523,
+      "version": "8.1.39",
+      "released": "2024-04-09 16:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.39/20240409-1059/Ignition-macOs-x86-64-8.1.39.zip",
+      "sha256": "d7093ca53a778478404fe6e6f55ca20489d082c9e4872aac5a07c5d1026bfcb3"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2523,
+      "version": "8.1.39",
+      "released": "2024-04-09 16:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.39/20240409-1059/perspectiveworkstation.dmg",
+      "sha256": "313e0412aa196e983076b56fedcc8c291198cbf89627376daa58a8efe082d803"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2523,
+      "version": "8.1.39",
+      "released": "2024-04-09 16:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.39/20240409-1059/visionclientlauncher.dmg",
+      "sha256": "6a845cb5e21c7157c544f5a6d3da77cb75c05261690113bd55123d555ab1e8d3"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2564,
+      "version": "8.1.41",
+      "released": "2024-05-29 10:22:37",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.41/20240528-1028/designerlauncher.dmg",
+      "sha256": "fa07f1a9bc7450045bf214162d6dfbbd142cd2dc3b3f93ec7ff1e8942ae68ca3"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2564,
+      "version": "8.1.41",
+      "released": "2024-05-29 10:22:37",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.41/20240528-1028/ignition-8.1.41-macos-64-installer.dmg",
+      "sha256": "07dc8eca9d2882a82eff0619ae980d2581ccc0d6e2060b932594b36e9e287fb6"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2564,
+      "version": "8.1.41",
+      "released": "2024-05-29 10:22:37",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.41/20240528-1028/Ignition-macOs-x86-64-8.1.41.zip",
+      "sha256": "3e7e90dc034214e7a4ebb8eef4de50f54013f8a7ff4290baa80ddb9be4db6fca"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2564,
+      "version": "8.1.41",
+      "released": "2024-05-29 10:22:37",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.41/20240528-1028/perspectiveworkstation.dmg",
+      "sha256": "42196565ed15af926497da15873ac19a6019e1a2dc573fe136534c623cbd29b0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2564,
+      "version": "8.1.41",
+      "released": "2024-05-29 10:22:37",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.41/20240528-1028/visionclientlauncher.dmg",
+      "sha256": "ae195d36376b093765c1262ac97a37cb8f035d7cc56f07abf728b5684fcd1538"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2581,
+      "version": "8.1.42",
+      "released": "2024-06-20 10:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.42/20240618-1102/designerlauncher.dmg",
+      "sha256": "010b52ae1562108f096bdbc6d173f3941a0599fa4c78450aa2a755be75ff0670"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2581,
+      "version": "8.1.42",
+      "released": "2024-06-20 10:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.42/20240618-1102/ignition-8.1.42-macos-64-installer.dmg",
+      "sha256": "59ea0478658f7d12c5318dc633215b1f774d9acdb50dfebb9c5ff66c24157813"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2581,
+      "version": "8.1.42",
+      "released": "2024-06-20 10:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.42/20240618-1102/Ignition-macOs-x86-64-8.1.42.zip",
+      "sha256": "72a90c3f5b62523e1a8b536cdc6be88e7ac11c592a443ba4fc744f193628b1cb"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2581,
+      "version": "8.1.42",
+      "released": "2024-06-20 10:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.42/20240618-1102/perspectiveworkstation.dmg",
+      "sha256": "ee1975c337df78c2cbf520ca3d320181f26eb41e303ea7d23ed09a92f5ba1887"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2581,
+      "version": "8.1.42",
+      "released": "2024-06-20 10:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.42/20240618-1102/visionclientlauncher.dmg",
+      "sha256": "f0b0b918fb5743fadf73945a6607e4fc0ca6c2aa912dc9d9382719d91322954f"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2626,
+      "version": "8.1.43",
+      "released": "2024-08-20 16:43:17",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.43/20240820-1049/designerlauncher.dmg",
+      "sha256": "78d033d20dafbaa548a50408e165b3c9f462ba8896b8c256d1520a34b076240e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2626,
+      "version": "8.1.43",
+      "released": "2024-08-20 16:43:17",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.43/20240820-1049/ignition-8.1.43-macos-64-installer.dmg",
+      "sha256": "6d12cf2b4fac9b6f3275712ee7f85b9b73400f212e18b32a87e96c6dd2ac64e2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2626,
+      "version": "8.1.43",
+      "released": "2024-08-20 16:43:17",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.43/20240820-1049/Ignition-macOs-x86-64-8.1.43.zip",
+      "sha256": "c41ccba4a493794278e18ebf1bd8632d555474417ccdb8127f1c37b5c7948967"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2626,
+      "version": "8.1.43",
+      "released": "2024-08-20 16:43:17",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.43/20240820-1049/perspectiveworkstation.dmg",
+      "sha256": "2209b79b825176bd1d8ee73171a4dfd9122138bb15635f4a77376a8186735bb9"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2626,
+      "version": "8.1.43",
+      "released": "2024-08-20 16:43:17",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.43/20240820-1049/visionclientlauncher.dmg",
+      "sha256": "f62f314de84a386bed6c4fef40a011656b769255aa921d02b90a673186b929c2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2673,
+      "version": "8.1.44",
+      "released": "2024-10-22 16:42:14",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.44/20241022-1128/designerlauncher.dmg",
+      "sha256": "021822027386256c602864d4a90096fd7a24e88fd169099f93719dfc11f896e7"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2673,
+      "version": "8.1.44",
+      "released": "2024-10-22 16:42:14",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.44/20241022-1128/ignition-8.1.44-macos-64-installer.dmg",
+      "sha256": "305c4e155514a44dc63236ee5950bdb8cabf341095c5302f4ce86a0c529d621d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2673,
+      "version": "8.1.44",
+      "released": "2024-10-22 16:42:14",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.44/20241022-1128/Ignition-macOs-x86-64-8.1.44.zip",
+      "sha256": "1722b72f96b3d20db3eb9f1124316ab2e5dc9d11e9cfacd6c8a43f7c3e1322b7"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2673,
+      "version": "8.1.44",
+      "released": "2024-10-22 16:42:14",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.44/20241022-1128/perspectiveworkstation.dmg",
+      "sha256": "1fccaede0d0364f9e3672066eeed3edf259d76663fa2c2400f500071f82494cc"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2673,
+      "version": "8.1.44",
+      "released": "2024-10-22 16:42:14",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.44/20241022-1128/visionclientlauncher.dmg",
+      "sha256": "6abacd466d267c5e131412472f66b146e918b108fb91c45a958700e64f84e00c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2730,
+      "version": "8.1.45",
+      "released": "2025-01-07 16:07:30",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.45/20250107-1021/designerlauncher.dmg",
+      "sha256": "4612ae9696c69505acfa2a17ae1ccc5e0724d89240ccfdd0468b13263183ecf0"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2730,
+      "version": "8.1.45",
+      "released": "2025-01-07 16:07:30",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.45/20250107-1021/ignition-8.1.45-macos-64-installer.dmg",
+      "sha256": "71f368e3fad3c6e35b77ce994904cfd5faa3e324acf2070fb48218f5b69e3a8e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2730,
+      "version": "8.1.45",
+      "released": "2025-01-07 16:07:30",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.45/20250107-1021/Ignition-macOs-x86-64-8.1.45.zip",
+      "sha256": "6385da19cf4b768f99874a4804a5361f4c4808178a9fd6f4cec9ce4c29c261d5"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2730,
+      "version": "8.1.45",
+      "released": "2025-01-07 16:07:30",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.45/20250107-1021/perspectiveworkstation.dmg",
+      "sha256": "0be0cb51a31b92c5b426875d05df0fffc798cd4ae8179d2080412651c14fc0d5"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2730,
+      "version": "8.1.45",
+      "released": "2025-01-07 16:07:30",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.45/20250107-1021/visionclientlauncher.dmg",
+      "sha256": "e5483b6f76d51face1fe8d2616e787005d2a0190d0ae84eb2ee543893cfa3bd3"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/designerlauncher.dmg",
+      "sha256": "3f6ee2e43fa3f57f1c4edef3608a5cfc4e6f0a757fe38b8dc61f9773c3a837f8"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/ignition-8.1.47-macos-64-installer.dmg",
+      "sha256": "4e57e1cf91eb4373cb11129d00facd5c923529daa65f779a59b1e498eeef7869"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/Ignition-macOs-x86-64-8.1.47.zip",
+      "sha256": "a048ec284a88b0f6caedd0d51747f14ccef2023ab094a183c826e8a35e296dcc"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/perspectiveworkstation.dmg",
+      "sha256": "1b05cec61d6431d2d2aa45faa20a8589b5f7a20e8099e877442c908b4480b5f2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "3ff8657b7cb959aa23b51f3f3e1fdadb4cb0149d483bfe5a3c88a5cef8a32705"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2771,
+      "version": "8.1.47",
+      "released": "2025-02-27 17:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.47/20250226-1340/visionclientlauncher.dmg",
+      "sha256": "e1dc09c6dcb2fa7316a7803544050685db42cd9e049bece3a10b4f21fc0676ac"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/designerlauncher.dmg",
+      "sha256": "71cc1bc981625d301f408aa9da5e0365c7a3f2a1bb727633a7a348b3ad32e895"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/ignition-8.1.48-macos-64-installer.dmg",
+      "sha256": "102227d75c6fd16ccc29514506cfc685691380b4f5629ea09d09c982b73e299b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/Ignition-macOs-x86-64-8.1.48.zip",
+      "sha256": "1cb642ababd4d22b13eade13e7ebf64e93739967a5660687e3d15c1e847d7628"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/perspectiveworkstation.dmg",
+      "sha256": "79a223dee38fc685a292c56a1d8d5b324157ac30da5b32463ea71e56fa82540b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "c979a9ca0f2a5cef89a93e6954da3604e656cd2870a5d2f0a2ca3abb4fc8d672"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2815,
+      "version": "8.1.48",
+      "released": "2025-04-29 15:54:12",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.48/20250429-1106/visionclientlauncher.dmg",
+      "sha256": "381e415f7ec992a5545d1cf437627356e1a955d3c78a1c9d3c80d6dce7b14a7b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/designerlauncher.dmg",
+      "sha256": "3192aae03a52d2d41a7a48148280c9150a8c3175115da92587d40e080259e556"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/ignition-8.1.49-macos-64-installer.dmg",
+      "sha256": "aeff8ab6018c55f842f299a44a79328d4d2e77e3d8b835736128c027dcc8798a"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/Ignition-macOs-x86-64-8.1.49.zip",
+      "sha256": "4d4b4a16c6572510f030bb4e7a24b8d4f99d414e43c1935a57c3183872f5c92b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/perspectiveworkstation.dmg",
+      "sha256": "ea5a89a2ccca2fd0c38ab61951ab42f90db6d3c0434d88b9a7e02b67c2eb7a54"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "38f7b643cbc257606993caf5cb7d0053fb4ff2d9f9e6c52dca1240acc98f470d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2893,
+      "version": "8.1.49",
+      "released": "2025-08-12 16:34:42",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.49/20250812-0848/visionclientlauncher.dmg",
+      "sha256": "e6b31af82c991668eeb6aba895048fd4e8ef83c2ad47ef8677bf707828dc05b8"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/designerlauncher.dmg",
+      "sha256": "a0628916983775ddd25b6ec440b0ac68249f7d39aeb52d1c149c4b37bf8111bb"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/ignition-8.1.50-macos-64-installer.dmg",
+      "sha256": "99911f28d432ccff545fdf745442e2ae49934ffdbef503ff0d9eb7d5c1b9f31c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/Ignition-macOs-x86-64-8.1.50.zip",
+      "sha256": "c6cd0b97c245f06f3b287a4b92d72df7c36aafe764c43ca81c6362c910f76e99"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/perspectiveworkstation.dmg",
+      "sha256": "cd949d101b9184b882e244fbd7d4701d270e978a39a29c1741d7cbaa81521643"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "00156834800344af7f995805cee9cb0a92604b066bfe20525e8872b5e52b246d"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 2943,
+      "version": "8.1.50",
+      "released": "2025-10-01 10:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.50/20250930-1219/visionclientlauncher.dmg",
+      "sha256": "1d2d61838e7641c558411797bd03d4e2f8856cbc2643cb2a074d61f3f3255cf8"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/designerlauncher.dmg",
+      "sha256": "b448117df7584d668ab7614990d97f82f9e25b15e5f2f237c054218626966493"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/ignition-8.1.51-macos-64-installer.dmg",
+      "sha256": "0489f05d251f3f27fe0546ce87d95795cab75f76529490a81dff71663f00cab4"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/Ignition-macOs-x86-64-8.1.51.zip",
+      "sha256": "890f78be27ba87ad7f5c345084b47c2b4c50f1fb25bdd9cefe3669362a8f09f9"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/perspectiveworkstation.dmg",
+      "sha256": "6ff8f517d2e0a8ea01ee9ff1181dac8ce555afe8e7d854a682cb094a49f4c39b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "d3de1ee149f809527cb34b880b6890eca4e19eaaf433874c6428ce66f2446867"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3038,
+      "version": "8.1.51",
+      "released": "2025-12-16 13:08:08",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.51/20251216-0811/visionclientlauncher.dmg",
+      "sha256": "898e47de6063c8baf7c291d953a1d72774e18fc1e35a2239495c8b466cfffa54"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/designerlauncher.dmg",
+      "sha256": "df4cc145f385e4fb611a27279137fb631e3411a5eff55c301fe232c72a622f1b"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/ignition-8.1.52-macos-64-installer.dmg",
+      "sha256": "8eca109fe94246b6dbdc85a1168b2c67fbfd8c39a55dcdfe9064ccd06480a77e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/Ignition-macOs-x86-64-8.1.52.zip",
+      "sha256": "5294e5e01f3f0df790056c6a22fb096b02f37e24e3d0dde9301cbe11eeb66dc2"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/perspectiveworkstation.dmg",
+      "sha256": "bf1363c99e00fc6d1beccab3524b39a6306f8700fa8f17f391e8785ad6a80d6e"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "d42990672ec43c67239958e8c7c4d6b432bbe890b807a13b90ae3c558d2adbc5"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3060,
+      "version": "8.1.52",
+      "released": "2026-01-14 13:24:12",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.52/20260113-0940/visionclientlauncher.dmg",
+      "sha256": "e23543be259a103bb43fa43eb7a278b1df131521ec1ce7e704e13abe3c44e257"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/designerlauncher.dmg",
+      "sha256": "f06f7cb2f14d042d0ae5111c36bfa4767bf2f3190445755aec847a598d7d160c"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/ignition-8.1.53-macos-64-installer.dmg",
+      "sha256": "d8cf88b4d161d494603e558d6774e9300781131d62bd6d8bebf35ae7c090ae58"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/Ignition-macOs-x86-64-8.1.53.zip",
+      "sha256": "03b4098966cb30b98d9dc0b21912af41d7858821928a326725700ea5ac882994"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/perspectiveworkstation.dmg",
+      "sha256": "fd48c3ae1965d9921df2b1a5e2a71fca48d193fab6229292280f32a9fb397e81"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "bdaf1644a6f3d1ccd48584db1cab032d5b7c836ccfd5345e0e4314050183c1e4"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3123,
+      "version": "8.1.53",
+      "released": "2026-03-24 14:07:10",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.53/20260324-1532/visionclientlauncher.dmg",
+      "sha256": "3d177bd1bbc2dbb1b15c16af2286a9d0327d6d010394e8ddba54f5a061560b58"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/designerlauncher.dmg",
+      "sha256": "7684dc967417e9d61c090f6f33050cd156adf7170adb07c395a12a78d848f7dc"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/ignition-8.1.54-macos-64-installer.dmg",
+      "sha256": "9bffd039812f8cb8089c816bcc52762d6db3c483559a6057cfb9671c8f54c9dc"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/Ignition-macOs-x86-64-8.1.54.zip",
+      "sha256": "b3ae32095d3c294c147d839fed8bf6782f7438fbbbb4ff3154574892bfe615ae"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Perspective Workstation - Mac OS Apple Silicon 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/perspectiveworkstation.dmg",
+      "sha256": "8a2a0581f4f217f91245728aad5e898bf883558a438f99d70da94529e2bfce64"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Perspective Workstation - Mac OS Intel 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/perspectiveworkstation (Intel Only).dmg",
+      "sha256": "019ab6a1b05415f1a9a796ee0cc4a7072a220d67a57cb3bbee8bf2d0a4d06e03"
+    },
+    {
+      "branch": "8.1",
+      "buildid": 3213,
+      "version": "8.1.54",
+      "released": "2026-06-30 16:52:38",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.1.54/20260630-1137/visionclientlauncher.dmg",
+      "sha256": "518370dda2645be69574fbb7d65df8a274b8ead230dad1f46d8a5005e1e9ff1b"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/designerlauncher.dmg",
+      "sha256": "ead4894079366048c910cb86ab53dab7636f431dcff693a9656503612b378baf"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/ignition-8.3.0-macos-64-installer.dmg",
+      "sha256": "4b39ed239b89864a032b668cc9dfa4080bb50b40cb5f5825130120471c4a2d10"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/Ignition-macOs-aarch64-64-8.3.0.zip",
+      "sha256": "18a9a83bc7a70b677c61a1f3579bbaeaf3b15c1ba4aafa402465787f3ecf1819"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/Ignition-Edge-macOs-aarch64-64-8.3.0.zip",
+      "sha256": "96f0c4e1c73d633c6048f037016626bf07e807166511ed5842cefd74f0354bc0"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/perspectiveworkstation.dmg",
+      "sha256": "7ee887d2c5ba8fe43125466ab36b7fab29e8451a1317de85fe29eba6296e5092"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2920,
+      "version": "8.3.0",
+      "released": "2025-09-16 17:00:00",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.0/20250915-1119/visionclientlauncher.dmg",
+      "sha256": "9d6130e5d934354fe6b96e701bf0fd64b3996de4e661942f268790d1eff1397d"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/designerlauncher.dmg",
+      "sha256": "c16ca9f208d233f0d6f75539a898a28d0fdd9ed37d46f6b4e0bb6fee6bef4662"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/ignition-8.3.1-macos-64-installer.dmg",
+      "sha256": "678de48a8cec92863fc224d766825b1efe0719dc0182ff4c5c88428c0d8b26de"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/Ignition-macOs-aarch64-64-8.3.1.zip",
+      "sha256": "3ff519193d8998fb37f7354380f5f83057ba44e7a9d62b4cc4ffa062d1d1c809"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/Ignition-Edge-macOs-aarch64-64-8.3.1.zip",
+      "sha256": "05c3399e2a1cd87295d706a24afaea2c22be03704a52ef3bce5afb9a1dacab8b"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/perspectiveworkstation.dmg",
+      "sha256": "e17585f5873091e3efba1c9a1529668b6d26eea8509bf7b0ecc97be0e42630fb"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 2975,
+      "version": "8.3.1",
+      "released": "2025-10-21 15:40:05",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.1/20251021-1008/visionclientlauncher.dmg",
+      "sha256": "aa84d5b1db083a59560941cbd2f2962e3d2c3a7622a9e34256cca0c496af7874"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/designerlauncher.dmg",
+      "sha256": "18b2b95c5ef69e0e7c5129f5b4a7515cdda2770ef655d4d5a727389e6fd8c411"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/ignition-8.3.2-macos-64-installer.dmg",
+      "sha256": "fa3b95203bb91a541eb9c0d78644e5f05dd5b622a976002299d1ffba50c6b6e7"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/Ignition-macOs-aarch64-64-8.3.2.zip",
+      "sha256": "da6b523fca90f93c286e0097e505d3a92a8ef86652cc4d4457b009db1e3003f5"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/Ignition-Edge-macOs-aarch64-64-8.3.2.zip",
+      "sha256": "4a071631938ea2840785cc24fc67eabfffbfead38303c7a6bc220c4014be015f"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/perspectiveworkstation.dmg",
+      "sha256": "966622ff8d5ce973414bc4a5e1b0fb45c4d3f1b5bba4dba88a3622d9280fcd45"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3025,
+      "version": "8.3.2",
+      "released": "2025-12-02 15:38:18",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.2/20251202-1115/visionclientlauncher.dmg",
+      "sha256": "aff7b7c68d956e7214af80c50c11546a63568f2f5978df28d9eec91920aa5dd7"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/designerlauncher.dmg",
+      "sha256": "257cbdee66595244f4c698190641d39f051853d0c25f934ca021316b9947539f"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/ignition-8.3.3-macos-64-installer.dmg",
+      "sha256": "81f686d67777e4f57123d47574ef416abfe4b98da99a7ec4874df87ae5b1f8a5"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/Ignition-macOs-aarch64-64-8.3.3.zip",
+      "sha256": "68dd599747d16e58f960aea55c07f1a8f1de50356df0ae6b4cfbfd7b5c2a36a8"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/Ignition-Edge-macOs-aarch64-64-8.3.3.zip",
+      "sha256": "ee2c63d3ceea2bbbde564e1c2988545867aa378c359774146c4d677ab824f7a4"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/perspectiveworkstation.dmg",
+      "sha256": "57416e971fb3f284068d331d0dffb37775b0fc4497906caf780b5d5afa14dde0"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3064,
+      "version": "8.3.3",
+      "released": "2026-01-20 16:32:59",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.3/20260120-1013/visionclientlauncher.dmg",
+      "sha256": "4a5cfaacf9aaaf2cd13aa3739b9f1437cdb50c65f5eb6f0d85a2689ce7be246d"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/designerlauncher.dmg",
+      "sha256": "cf3f287ba3044026e9ddfc1aab4347f414a6e324845a330ab1dce7fdcbf3a9ea"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/ignition-8.3.4-macos-64-installer.dmg",
+      "sha256": "537b7ea0704aa3d342799afbf9958afe388f70bcfab4020b1c2a5b77deeda0a0"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/Ignition-macOs-aarch64-64-8.3.4.zip",
+      "sha256": "205500ca4a13286236ff8d06fa92c4f0216a1ad679a3a988fc988ba087b6383d"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/Ignition-Edge-macOs-aarch64-64-8.3.4.zip",
+      "sha256": "44f1d817a2150a9c705a20a2515274794ddf4c396e38fae73cf6f17c175967c7"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/perspectiveworkstation.dmg",
+      "sha256": "4e7fcde7746605d4a33d4925c45df4fa46f8084915bde151ca327abae0cc3042"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3104,
+      "version": "8.3.4",
+      "released": "2026-03-04 09:03:28",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.4/20260303-1037/visionclientlauncher.dmg",
+      "sha256": "3b8af9e5c99bbede6075a4f2cf95cb24cb7469dfb252d12f4d50ee4431be75f2"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/designerlauncher.dmg",
+      "sha256": "3d6fb179db0f48708a2b58ac6c00ed1475e3e2cdb799bda50a41eb3365c9c391"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/ignition-8.3.6-macos-64-installer.dmg",
+      "sha256": "ff6fcd2be110e5fe2b8546aa3c979f4c2858537a7e0b31acb49d859ec53718e3"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/Ignition-macOs-aarch64-64-8.3.6.zip",
+      "sha256": "e6f9fac1247df9e18aecf54e01e5a74c341aca967b2794e85f9340da8290100c"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/Ignition-Edge-macOs-aarch64-64-8.3.6.zip",
+      "sha256": "7708daa3c28fe4d7526a8a98ff199136569206e2b09c1733e9a298987edaf6ce"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/perspectiveworkstation.dmg",
+      "sha256": "b1cda69ce4a36edeceabda0f949d7d816d163fc264c931762d04882823c213e2"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3152,
+      "version": "8.3.6",
+      "released": "2026-04-28 14:06:42",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.6/20260427-1347/visionclientlauncher.dmg",
+      "sha256": "273cf9841a78c1b691a2a73287254f1a9cbec36f6ba457d9294df5d603905542"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/designerlauncher.dmg",
+      "sha256": "30be7defbee259f9b6b1fe5e8d8583bac103634800b107a04a93a7329b505456"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/ignition-8.3.7-macos-64-installer.dmg",
+      "sha256": "a9855ec622227344ff7e6e64851e489cb97ee595770c6affc001c87e6f025fa8"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/Ignition-macOs-aarch64-64-8.3.7.zip",
+      "sha256": "796ce47d1441d15db1bd39c93551fb553d73f54a251a792899e3b255d2077778"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/Ignition-Edge-macOs-aarch64-64-8.3.7.zip",
+      "sha256": "5e929b37be580999253df33d0cff358ddc0525fe9f1978d81b9547a872dae4d7"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/perspectiveworkstation.dmg",
+      "sha256": "a7920b75b0e4e6739104b9e3ec6fe013096197196e73f90eb3a7cceca9f9d405"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3191,
+      "version": "8.3.7",
+      "released": "2026-06-09 14:28:58",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.7/20260609-0922/visionclientlauncher.dmg",
+      "sha256": "36fd57336fc8e0d095656cf4d1117e4f4c45e5d319085a4d7061298ec8d1ac5a"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Designer Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/designerlauncher.dmg",
+      "sha256": "9cd652c0ea059e3944252eb75b5362f9154554c49c4be645926da499ac289b1d"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Ignition - macOS Installer",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/ignition-8.3.8-macos-64-installer.dmg",
+      "sha256": "c6473225a624f3004999bdab5cf0448d2157de568e7313c4fe85e08706e37da7"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Ignition - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/Ignition-macOs-aarch64-64-8.3.8.zip",
+      "sha256": "bd4608d948f86d388af76ee4486120247f88a2d954f595c59783cedcd1a73c20"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Ignition Edge - macOS zip",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/Ignition-Edge-macOs-aarch64-64-8.3.8.zip",
+      "sha256": "bc7cf40b4698ce2b03fad9edfc4abc0fcb9d1b7e67cad4e962858ae63fc7da6f"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Perspective Workstation - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/perspectiveworkstation.dmg",
+      "sha256": "bb84c54a59107568500c0d207a38f26dc45b6957f9a5f5a02b2bda974c889b18"
+    },
+    {
+      "branch": "8.3",
+      "buildid": 3222,
+      "version": "8.3.8",
+      "released": "2026-07-14 14:18:22",
+      "label": "Vision Client Launcher - Mac OS 64-bit dmg",
+      "url": "https://releases.inductiveautomation.com/release/8.3.8/20260714-1000/visionclientlauncher.dmg",
+      "sha256": "3905c5422055d9a1142eaad37748221f700256588cd094b7ba914345a1ab0827"
+    }
+  ]
+}

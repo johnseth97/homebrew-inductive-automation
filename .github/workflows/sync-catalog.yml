@@ -1,0 +1,41 @@
+name: Sync Inductive Automation catalogue
+
+on:
+  schedule:
+    - cron: "43 6 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh stable macOS archive
+        run: ruby scripts/sync_catalog.rb
+
+      - name: Open catalogue update pull request
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet -- data/stable-macos-artifacts.json; then
+            exit 0
+          fi
+          branch="autobump/inductive-automation-catalogue-$(date -u +%Y%m%d%H%M%S)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add data/stable-macos-artifacts.json
+          git commit -m "Sync Inductive Automation macOS catalogue"
+          git push --set-upstream origin "$branch"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Sync Inductive Automation macOS catalogue" \
+            --body "Automated stable-branch catalogue refresh."
